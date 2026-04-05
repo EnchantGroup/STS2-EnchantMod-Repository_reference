@@ -7,7 +7,7 @@
 | 路径 | 远程仓库 | 说明 |
 |------|----------|------|
 | `STS2-MoreEnchantStandalone/` | [Miooowo/STS2-MoreEnchantStandalone](https://github.com/Miooowo/STS2-MoreEnchantStandalone) | 不依赖 RitsuLib 的更多附魔 MOD（构建、安装与功能说明见该仓库 [README](https://github.com/Miooowo/STS2-MoreEnchantStandalone/blob/main/README.md)） |
-| `MultiEnchantmentMod/` | [1939323749/MultiEnchantmentMod](https://github.com/1939323749/MultiEnchantmentMod) | 多附魔支持，提供API支持mod附魔多附魔。[文档](https://github.com/1939323749/MultiEnchantmentMod/wiki/MultiEnchantmentMod-Stack-%E7%B1%BB%E5%9E%8B%E4%B8%8E%E7%94%A8%E6%B3%95)） |
+| `MultiEnchantmentMod/` | [1939323749/MultiEnchantmentMod](https://github.com/1939323749/MultiEnchantmentMod) | 多附魔支持，提供API支持mod附魔多附魔。[文档](https://github.com/1939323749/MultiEnchantmentMod/wiki/MultiEnchantmentMod-Stack-%E7%B1%BB%E5%9E%8B%E4%B8%8E%E7%94%A8%E6%B3%95) |
 
 ## 克隆本仓库
 
