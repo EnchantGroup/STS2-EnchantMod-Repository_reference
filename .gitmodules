@@ -1,3 +1,6 @@
 [submodule "STS2-MoreEnchantStandalone"]
 	path = STS2-MoreEnchantStandalone
 	url = https://github.com/Miooowo/STS2-MoreEnchantStandalone
+[submodule "MultiEnchantmentMod"]
+	path = MultiEnchantmentMod
+	url = https://github.com/1939323749/MultiEnchantmentMod.git
